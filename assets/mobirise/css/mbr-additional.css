@@ -713,7 +713,7 @@ section.lazy-placeholder:after {
 .cid-rTZ3lixkDw {
   padding-top: 120px;
   padding-bottom: 45px;
-  background-image: url("../../../assets/images/slide6-3-624x144.jpeg");
+  background: linear-gradient(45deg, #2000ff, #00159c);
 }
 @media (min-width: 992px) {
   .cid-rTZ3lixkDw .mbr-figure {
@@ -737,11 +737,11 @@ section.lazy-placeholder:after {
 }
 .cid-rTZ3lixkDw .mbr-section-title {
   text-align: center;
-  color: #ff0100;
+  color: #f7ed4a;
 }
 .cid-rTZ3lixkDw .mbr-text,
 .cid-rTZ3lixkDw .mbr-section-btn {
-  color: #000000;
+  color: #ffffff;
   text-align: left;
 }
 .cid-rTZ3lixkDw .mbr-text,
