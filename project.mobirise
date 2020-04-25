@@ -203,9 +203,6 @@
           "_name": "contacts1",
           "_anchor": "contacts1-m",
           "_styles": {
-            "P": {
-              "color": "#ffffff"
-            },
             "DIV": {
               "color": "#ffffff"
             }
@@ -527,7 +524,12 @@
             "Theme"
           ],
           "_name": "contacts1",
-          "_anchor": "contacts1-y"
+          "_anchor": "contacts1-y",
+          "_styles": {
+            "DIV": {
+              "color": "#ffffff"
+            }
+          }
         }
       ]
     }
