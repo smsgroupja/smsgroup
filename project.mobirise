@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "SMS Group",
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -18,7 +18,7 @@
     "versionFirst": "4.12.0",
     "siteFonts": [],
     "imageResize": true,
-    "uniqCompNum": 35,
+    "uniqCompNum": 36,
     "versionPublish": "4.12.0",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -164,6 +164,61 @@
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-h"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/logo-1-960x720.jpeg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#222222",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "<span style=\"font-weight: normal;\">CONTACT FORM</span>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Send Message</a>",
+          "form": {
+            "action": "sewellmultipurposeservices@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form! and it's sent to smsgroupja@gmail.com for review"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-z",
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff",
+              "text-align": "left"
+            }
+          }
         },
         {
           "_params": {
