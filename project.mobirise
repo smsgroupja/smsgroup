@@ -1,7 +1,7 @@
 {
   "settings": {
-    "name": "Site-04-25_0931",
-    "currentPage": "index.html",
+    "name": "SMS Group",
+    "currentPage": "page1.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -20,13 +20,20 @@
     "imageResize": true,
     "uniqCompNum": 35,
     "versionPublish": "4.12.0",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": false,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Under Construction",
+        "title": "SMS Group",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -58,7 +65,7 @@
             "color": "#2c2c2c",
             "hamburgerColor": "#ffffff"
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"http://www.romainesewellonline.tk\"><span class=\"mbri-play mbr-iconfont mbr-iconfont-btn\"></span>Under Construction</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"http://www.smsgroupja.tk\"><span class=\"mbri-play mbr-iconfont mbr-iconfont-btn\"></span>SMS Group (Coming Soon)</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"http://www.romainesewellonline.tk\"><span class=\"mbri-info mbr-iconfont mbr-iconfont-btn\"></span>Romaine Sewell Online</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
@@ -263,7 +270,7 @@
     },
     "page1.html": {
       "settings": {
-        "title": "Page 1",
+        "title": "Romaine Sewell Online",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -296,7 +303,7 @@
             "color": "#2c2c2c",
             "hamburgerColor": "#ffffff"
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"http://www.romainesewellonline.tk\"><span class=\"mbri-play mbr-iconfont mbr-iconfont-btn\"></span>Under Construction</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"http://www.smsgroupja.tk\"><span class=\"mbri-play mbr-iconfont mbr-iconfont-btn\"></span>SMS Group (Coming Soon)</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"http://www.romainesewellonline.tk\"><span class=\"mbri-info mbr-iconfont mbr-iconfont-btn\"></span>Romaine Sewell Online</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
