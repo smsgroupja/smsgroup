@@ -65,7 +65,7 @@
             "color": "#2c2c2c",
             "hamburgerColor": "#ffffff"
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"http://www.smsgroupja.tk\"><span class=\"mbri-play mbr-iconfont mbr-iconfont-btn\"></span>SMS Group (Coming Soon)</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"#top\"><span class=\"mbri-info mbr-iconfont mbr-iconfont-btn\"></span>Romaine Sewell Online</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"http://www.smsgroupja.tk\"><span class=\"mbri-play mbr-iconfont mbr-iconfont-btn\"></span>SMS Group (Coming Soon)</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"http://www.romainesewellonline.tk\"><span class=\"mbri-info mbr-iconfont mbr-iconfont-btn\"></span>Romaine Sewell Online</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
@@ -203,6 +203,9 @@
           "_name": "contacts1",
           "_anchor": "contacts1-m",
           "_styles": {
+            "P": {
+              "color": "#ffffff"
+            },
             "DIV": {
               "color": "#ffffff"
             }
@@ -300,7 +303,7 @@
             "color": "#2c2c2c",
             "hamburgerColor": "#ffffff"
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"http://www.smsgroupja.tk\"><span class=\"mbri-play mbr-iconfont mbr-iconfont-btn\"></span>SMS Group (Coming Soon)</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"#top\"><span class=\"mbri-info mbr-iconfont mbr-iconfont-btn\"></span>Romaine Sewell Online</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"http://www.smsgroupja.tk\"><span class=\"mbri-play mbr-iconfont mbr-iconfont-btn\"></span>SMS Group (Coming Soon)</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"http://www.romainesewellonline.tk\"><span class=\"mbri-info mbr-iconfont mbr-iconfont-btn\"></span>Romaine Sewell Online</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
@@ -518,8 +521,8 @@
             }
           },
           "text1": "<strong>ADDRESS</strong><br>Coming Soon",
-          "text2": "<strong>CONTACTS</strong><br>\nEmail: smsgroupja@gmail.com<br>smsgroupja@hotmail.com<br>\nPhone: +1 876 539 9462<br>",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li>Website: www.smsgroupja.tk</li><li>Facebook: www.facebook.com/smsgroupja</li><li>Personal Website: www.romainesewellonline.tk</li><li>Personal Email:</li><li>romainesewellonline@hotmail.com</li></ul>",
+          "text2": "<strong>CONTACTS</strong><br>\nEmail: romainesewellonline@hotmail.com<br>romainesewelloffice@gmail.com<br>\nPhone: +1 876 217 1124<br>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li>Website: www.romainesewellonline.tk</li><li>Facebook: www.facebook.com/romainesewellonline</li><li>Company Website: www.smsgroupja.tk</li><li>Company Email:</li><li>smsgroupja@gmail.com</li><li>smsgroupja@hotmail.com</li></ul>",
           "_tags": [
             "Theme"
           ],
