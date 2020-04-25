@@ -11,7 +11,8 @@
         "#5e4d6b",
         "#583e6c",
         "#9c9c9c",
-        "#f0f0f0"
+        "#f0f0f0",
+        "#77e1cc"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -101,12 +102,12 @@
             "imageSize": "60",
             "paddingTop": "2",
             "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/logo-1-960x720.jpeg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#f97352",
-            "bgVideoRadio": true,
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/embed/6u9sR_PLJN0?rel=0&amp;showinfo=0&autoplay=0&loop=0",
               "rawUrl": "https://www.youtube.com/watch?v=6u9sR_PLJN0",
@@ -170,14 +171,14 @@
             "showTitle": true,
             "paddingTop": "2",
             "paddingBottom": "2",
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/logo-1-960x720.jpeg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#222222",
-            "overlay": false,
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#f0f0f0",
+            "overlay": true,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "overlayOpacity": "0.9"
           },
           "title": "<span style=\"font-weight: normal;\">CONTACT FORM</span>",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Send Message</a>",
@@ -228,7 +229,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#000000",
+            "bgColor": "#77e1cc",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -250,19 +251,19 @@
             }
           },
           "text1": "<strong>ADDRESS</strong><br>Coming Soon",
-          "text2": "<strong>CONTACTS</strong><br>\nEmail: smsgroupja@gmail.com<br>smsgroupja@hotmail.com<br>\nPhone: +1 876 539 9462<br>",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li>Website: www.smsgroupja.tk</li><li>Facebook: www.facebook.com/smsgroupja</li><li>Personal Website: www.romainesewellonline.tk</li><li>Personal Email:</li><li>romainesewellonline@hotmail.com</li></ul>",
+          "text2": "<strong>CONTACTS</strong><br>\nEmail: romainesewellonline@hotmail.com<br>romainesewelloffice@gmail.com<br>\nPhone: +1 876 217 1124<br>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li>Website: www.romainesewellonline.tk</li><li>Facebook: www.facebook.com/romainesewellonline</li><li>Company Website: www.smsgroupja.tk</li><li>Company Email:</li><li>smsgroupja@gmail.com</li><li>smsgroupja@hotmail.com</li></ul>",
           "_tags": [
             "Theme"
           ],
           "_name": "contacts1",
           "_anchor": "contacts1-m",
           "_styles": {
-            "P": {
-              "color": "#ffffff"
-            },
             "DIV": {
-              "color": "#ffffff"
+              "color": "#222222"
+            },
+            "P": {
+              "color": "#000000"
             }
           }
         },
@@ -274,7 +275,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#000000",
+            "bgColor": "#ffffff",
             "overlay": false,
             "overlayColor": "#222",
             "overlayOpacity": 0.5
@@ -288,7 +289,7 @@
           "_anchor": "social-buttons2-s",
           "_styles": {
             ".mbr-header__text": {
-              "color": "#ffffff"
+              "color": "#000000"
             }
           }
         },
@@ -394,12 +395,12 @@
             "imageSize": "60",
             "paddingTop": "2",
             "paddingBottom": "0",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/wallpaper-43-960x854.png",
             "parallax": true,
             "bgColorRadio": false,
-            "bgColor": "#f97352",
-            "bgVideoRadio": true,
+            "bgColor": "#2c82c9",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/embed/lRTtMcx6rSM?rel=0&amp;showinfo=0&autoplay=0&loop=0",
               "rawUrl": "https://www.youtube.com/watch?v=lRTtMcx6rSM",
@@ -439,17 +440,17 @@
           ],
           "_styles": {
             ".mbr-header__text": {
-              "color": "#ffffff",
+              "color": "#000000",
               "text-align": "center",
               "font-family": "'Indie Flower', cursive",
               "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
               "font-size": "60px"
             },
             ".mbr-header__subtext": {
-              "color": "#ffffff"
+              "color": "#000000"
             },
             ".mbr-article": {
-              "color": "#ffffff"
+              "color": "#222222"
             }
           },
           "headerAlign": "center",
@@ -461,13 +462,13 @@
         {
           "_styles": {
             ".mbr-header__text": {
-              "color": "#ffffff"
+              "color": "#000000"
             },
             ".mbr-header__subtext": {
-              "color": "#ffffff"
+              "color": "#000000"
             },
             ".mbr-article": {
-              "color": "#ffffff"
+              "color": "#000000"
             }
           },
           "_params": {
@@ -482,9 +483,9 @@
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#3c3c3c",
-            "bgVideoRadio": true,
+            "bgColorRadio": true,
+            "bgColor": "#77e1cc",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/embed/lRTtMcx6rSM?rel=0&amp;showinfo=0&autoplay=0&loop=0",
               "rawUrl": "https://www.youtube.com/embed/lRTtMcx6rSM?rel=0&showinfo=0&autoplay=0&loop=0",
@@ -534,7 +535,7 @@
             "bgColorRadio": false,
             "bgColor": "#5e4d6b",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/fb-img-1579268219019-480x640.jpeg",
+            "bgImage": "@PROJECT_PATH@/assets/images/wallpaper-43-960x854.png",
             "overlay": false,
             "overlayColor": "#7e9b9f",
             "overlayOpacity": 0.6
@@ -554,7 +555,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#3c3c3c",
+            "bgColor": "#77e1cc",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -585,7 +586,10 @@
           "_anchor": "contacts1-y",
           "_styles": {
             "DIV": {
-              "color": "#ffffff"
+              "color": "#222222"
+            },
+            "P": {
+              "color": "#000000"
             }
           }
         }

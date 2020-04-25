@@ -29,14 +29,14 @@
   color: #ffffff;
   text-align: left;
 }
-#contacts1-m P {
-  color: #ffffff;
-}
 #contacts1-m DIV {
-  color: #ffffff;
+  color: #222222;
+}
+#contacts1-m P {
+  color: #000000;
 }
 #social-buttons2-s .mbr-header__text {
-  color: #ffffff;
+  color: #000000;
 }
 #footer1-t B {
   font-size: 16px;
@@ -59,26 +59,29 @@
   color: #ffffff;
 }
 #msg-box4-v .mbr-header__text {
-  color: #ffffff;
+  color: #000000;
   text-align: center;
   font-family: 'Indie Flower', cursive;
   font-size: 60px;
 }
 #msg-box4-v .mbr-header__subtext {
-  color: #ffffff;
+  color: #000000;
 }
 #msg-box4-v .mbr-article {
-  color: #ffffff;
+  color: #222222;
 }
 #msg-box5-w .mbr-header__text {
-  color: #ffffff;
+  color: #000000;
 }
 #msg-box5-w .mbr-header__subtext {
-  color: #ffffff;
+  color: #000000;
 }
 #msg-box5-w .mbr-article {
-  color: #ffffff;
+  color: #000000;
 }
 #contacts1-y DIV {
-  color: #ffffff;
+  color: #222222;
+}
+#contacts1-y P {
+  color: #000000;
 }
